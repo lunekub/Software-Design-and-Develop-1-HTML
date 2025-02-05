@@ -165,7 +165,94 @@
 ### บันทึกผลการทดลอง
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
-[วางโค้ด HTML ที่นี่]
+[<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าหลัก</title>
+</head>
+<body>
+    <!-- ส่วนของเนื้อหา -->
+</body>
+</html>
+
+<nav>
+    <!-- ลิงก์ภายใน - ไปยังหน้าในเว็บไซต์เดียวกัน -->
+    <a href="imager/_01A0239.JPG">หน้าหลัก</a>
+    <a href="imager/_01A0239.JPG">ตัวเรา</a>
+    <a href="tel:+66999092292">ติดต่อเรา</a>
+    
+    <!-- ลิงก์ภายนอก - เปิดในแท็บใหม่ -->
+    <a href="https://www.google.com" target="_blank">
+        ไปยัง Google
+    </a>
+</nav>
+
+<!-- สร้างจุดเชื่อมโยง -->
+<section id="top">
+    <h1>เนื้อหาส่วนบน</h1>
+</section>
+
+<section id="products">
+    <h2>สินค้าของเรา</h2>
+</section>
+
+<!-- ลิงก์ไปยังจุดเชื่อมโยง -->
+<a href="#top">กลับด้านบน</a>
+<a href="#products">ไปยังสินค้า</a>
+
+
+
+
+
+<!-- ลิงก์อีเมล -->
+<a href="mailto:67030305@kmitl.ac.th">ส่งอีเมลหาเรา</a>
+
+<!-- ลิงก์โทรศัพท์ -->
+<a href="tel:+6699092292">โทร 099-909-2292</a>
+
+<!-- ลิงก์ดาวน์โหลด -->
+<a href="files/อ่านเชิงวิเคราะห์ 9.pdf" download>
+    ดาวน์โหลดเอกสาร
+</a>
+
+
+<!-- รูปภาพในโฟลเดอร์ images -->
+<img src="imager/png-transparent-phoenix-logo-design-mark-phoenix-fire-thumbnail.png" 
+    alt="โลโก้บริษัท"
+     width="20">
+
+<!-- รูปภาพในโฟลเดอร์ย่อย products -->
+    <figure>
+        <img src="products/images.jpg"
+
+             alt="สินค้าชิ้นที่ 1"
+     width="300"
+     height="200">
+    </figure>
+
+     <figure>
+        <img src="products/bmw-m-series-seo-overview-ms-04.jpg"
+             alt="สินค้าชิ้นที่ 2">
+        <figcaption>
+            รายละเอียดสินค้าชิ้นที่ 2
+        
+        </figcaption>
+        
+    </figure>
+
+    <a href="products/images.jpg">
+        <img src="products/images.jpg" 
+             alt="คลิกเพื่อดูรูปขนาดใหญ่ชิ้นที่ 1"
+             width="320">
+    </a>
+
+    <a href="products/bmw-m-series-seo-overview-ms-04.jpg">
+        <img src="products/bmw-m-series-seo-overview-ms-04.jpg" 
+             alt="คลิกเพื่อดูรูปขนาดใหญ่ชิ้นที่ 2"
+             width="380">
+    </a>![Screenshot 2025-02-05 230959](https://github.com/user-attachments/assets/fb31e330-62fd-4733-be19-aa65837db5bc)
+]
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
