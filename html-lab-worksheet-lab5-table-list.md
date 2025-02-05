@@ -66,10 +66,45 @@
 1. สร้างตารางแสดงข้อมูลส่วนตัว
 2. สร้างรายการเมนูอาหาร
 
-[วางโค้ด HTML ที่นี่]
+[<table border="1">
+    <thead>
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>chicken</td>
+            <td>Melts Hokkaido Cheese </td>
+        </tr>
+        <tr>
+            <td>Melts Hokkaido Cheese</td>
+            <td>chicken</td>
+        </tr>
+    </tbody>
+</table>
+
+<ul>
+    <li>pizza hut 1 item 1</li>
+    <li>pizza hut 2 item 2</li>
+</ul>
+
+<ol>
+    <li>Melts Fever ลดฟินเวอร์ 1</li>
+    <li>Melts Hokkaido Cheese 2</li>
+</ol>
+
+<dl>
+    <dt>pizza hut 1</dt>
+    <dd>Melts Fever ลดฟินเวอร์ 1</dd>
+    <dt>pizza hut 2</dt>
+    <dd>Melts Hokkaido Cheese 2</dd>
+</dl>]
 ```html
 
 ```
-- ภาพผลลัพธ์:
+- ภาพผลลัพธ์:![Screenshot 2025-02-05 232907](https://github.com/user-attachments/assets/b5a2e55a-887d-44bc-ab9b-5aaf82e1b5fe)
+
 [วางภาพ screenshot ที่นี่]
 
