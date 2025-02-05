@@ -31,7 +31,29 @@
 ### บันทึกผลการทดลอง
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
-[วางโค้ด HTML ที่นี่]
+[<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>My name is Teeravee Chamnandee kub </h1>
+    <strong>Student ID 67030305</strong>    
+</body>
+</html>
+
+<h1>งานอดิเรก</h1>
+<p>ชอบเล่นบาสครับ</p>
+<h2>เป้าหมายในอนาคต</h2>
+<p>ผมอยาก <strong>รวย</strong> และ <em>นอนเล่นได้ทั้งวัน</em></p>
+<p>เสร็จเเล้วครับ<br>ครับ ผม</p>
+<hr>
+<pre>
+    ข้อความที่ต้องการ
+    รักษารูปแบบ
+    การเว้นวรรค
+    เสร็จเเล้วครับ
+</pre>]
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
