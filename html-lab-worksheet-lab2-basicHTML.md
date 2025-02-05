@@ -45,7 +45,8 @@
     <p>This is my first web page.</p>
     <div>This is a block element</div>
     <span>This is an inline element</span>
-    <em>This text is emphasized</em>
+    <em>This text is emphasized</em>![Screenshot 2025-02-05 215638](https://github.com/user-attachments/assets/0c184368-8c63-4750-bb3d-dd9f2ae0a88a)
+
     <strong>Student ID 67030305</strong>    
 </body>
 </html>]
