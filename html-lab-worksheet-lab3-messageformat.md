@@ -1,4 +1,4 @@
-# ใบงานการทดลอง HTML
+![Screenshot 2025-02-05 220724](https://github.com/user-attachments/assets/9b9dec26-ce1c-4517-89da-970c5fd001fc)# ใบงานการทดลอง HTML
  
 ## การทดลองที่ 3: การจัดการข้อความและการจัดรูปแบบ
 ### ขั้นตอนการทดลอง
@@ -36,7 +36,8 @@
 <head>
     <title>My First Web Page</title>
 </head>
-<body>
+<body>![Screenshot 2025-02-05 220724](https://github.com/user-attachments/assets/7490d910-488f-4511-aec7-3af567ca986f)
+
     <h1>My name is Teeravee Chamnandee kub </h1>
     <strong>Student ID 67030305</strong>    
 </body>
